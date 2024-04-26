@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react'
+import type { TableProps } from 'antd';
 
 import '~/styles/users.css'
 
